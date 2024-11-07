@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a junior front-end developer. Competent, focused, always striving for self-development. Qualified, responsible and diligent engineer ready to solve various tasks innovatively. I am currently taking courses at IT School Intellect Fox and constantly improving my knowledge in a technology stack such as: HTML, CSS, JavaScript, React and Redux.</p>
+<p align="left">Hi, I'm a junior front-end developer. Competent, focused, always striving for self-development. Qualified, responsible and diligent engineer ready to solve various tasks innovatively. I am currently taking courses at IT School Intellect Fox and constantly improving my knowledge in a technology stack such as: HTML, CSS, JavaScript, React and Redux.</p>
 
 ###
 
