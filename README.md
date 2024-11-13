@@ -79,11 +79,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma" />
 </a>
-<img width="12" />
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" height="40" alt="Git" />
-</a>
-<img width="12" />
 </div>
 
 ###
