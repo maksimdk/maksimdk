@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm a junior front-end developer. Competent, focused, always striving for self-development. Qualified, responsible and diligent engineer ready to solve various tasks innovatively. I am currently taking courses at IT School Intellect Fox and constantly improving my knowledge in a technology stack such as: HTML, CSS, JavaScript, React and Redux.</p>
+<p align="left">Hi, I'm a junior front-end developer. Competent, focused, always striving for self-development. Qualified, responsible and diligent engineer ready to solve various tasks innovatively. I am currently taking courses at IT School Intellect Fox and constantly improving my knowledge in a technology stack such as: HTML, CSS, JavaScript, React and Redux.</p>
 
 ###
 
@@ -74,10 +74,6 @@
 <img width="12" />
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" height="40" alt="Webpack" />
-</a>
-<img width="12" />
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma" />
 </a>
 </div>
 
