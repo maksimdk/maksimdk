@@ -75,6 +75,10 @@
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" height="40" alt="Webpack" />
 </a>
+<img width="12" />
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma" />
+</a>
 </div>
 
 ###
