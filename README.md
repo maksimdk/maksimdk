@@ -43,19 +43,15 @@
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="40" alt="HTML5" />
 </a>
-<img width="12" />
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="40" alt="CSS3" />
 </a>
-<img width="12" />
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" height="40" alt="Sass" />
 </a>
-<img width="12" />
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="40" alt="Bootstrap" />
 </a>
-<img width="12" />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" height="40" alt="JavaScript" />
 </a>
