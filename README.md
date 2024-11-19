@@ -72,12 +72,24 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" height="40" alt="TypeScript" />
 </a>
 <img width="12" />
+<a href="https://www.jestjs.io/" target="_blank" style="text-decoration: none">
+<img  src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="40" />
+</a>
+<img width="12" />
+<a href="https://www.nginx.com/" target="_blank" style="text-decoration: none">
+<img  src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="40" />
+</a>
+<img width="12" />
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" height="40" alt="Webpack" />
 </a>
 <img width="12" />
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="text-decoration: none">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" height="40" alt="Figma" />
+</a>
+<img width="12" />
+<a href="https://github.com/" target="_blank" style="text-decoration: none">
+<img  src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
 </a>
 </div>
 
