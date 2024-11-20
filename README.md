@@ -111,7 +111,8 @@
               <a href="https://github.com/maksimdk/furnity" target="_blank" rel="noreferrer">(Repository)</a>
             </span>
             -
-              <a href="https://github.com/maksimdk/furnity" target="_blank" rel="noreferrer">https://github.com/maksimdk/furnity in development</a>
+              <a href="https://github.com/maksimdk/furnity" target="_blank" rel="noreferrer">https://github.com/maksimdk/furnity</a>
+               in development
            </li>
            <li>TripHouse 
             <span>
@@ -119,6 +120,14 @@
             </span>
             -
               <a href="https://maksimdk.github.io/if-js/" target="_blank" rel="noreferrer">https://maksimdk.github.io/if-js/</a>
+           </li>
+           <li>FoxTok 
+            <span>
+              <a href="https://github.com/maksimdk/foxtok" target="_blank" rel="noreferrer">(Repository)</a>
+            </span>
+            -
+              <a href="https://github.com/maksimdk/foxtok" target="_blank" rel="noreferrer">https://github.com/maksimdk/foxtok</a>
+               in development
            </li>
        </ul>
 </p>
