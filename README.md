@@ -108,7 +108,7 @@
               <a href="https://github.com/maksimdk/furnity" target="_blank" rel="noreferrer">(Repository)</a>
             </span>
             -
-              <a href="https://github.com/maksimdk/furnity" target="_blank" rel="noreferrer">https://maksimdk.github.io/furnity/</a>
+              <a href="https://maksimdk.github.io/furnity/" target="_blank" rel="noreferrer">https://maksimdk.github.io/furnity/</a>
                in development
            </li>
            <li>TripHouse 
